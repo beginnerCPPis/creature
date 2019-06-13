@@ -5,7 +5,7 @@
 
       	publishDir = "docs"
 	canonifyurls = true
-	baseURL = "https://beginnercppis.github.io/Electric-Sheep/"
+	baseURL = "https://beginnercppis.github.io/creature/"
 	#baseURL = "https://subtle-life.work"                                                                                                                                                                                                         
 	defaultContentLanguage = "en"
 	title = "introduction"

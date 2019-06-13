@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>introduction</title>
+    <link>https://beginnercppis.github.io/creature/</link>
+    <description>Recent content on introduction</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 13 Jun 2019 13:24:06 +0900</lastBuildDate>
+    
+	<atom:link href="https://beginnercppis.github.io/creature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Whale</title>
+      <link>https://beginnercppis.github.io/creature/posts/whale/</link>
+      <pubDate>Thu, 13 Jun 2019 13:24:06 +0900</pubDate>
+      
+      <guid>https://beginnercppis.github.io/creature/posts/whale/</guid>
+      <description>nice to meet you   in chihaya</description>
+    </item>
+    
+  </channel>
+</rss>
