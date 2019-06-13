@@ -3,20 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://beginnercppis.github.io/creature/posts/history/</loc>
+    <lastmod>2019-06-13T21:49:16+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://beginnercppis.github.io/creature/posts/</loc>
-    <lastmod>2019-06-13T13:24:06+09:00</lastmod>
+    <lastmod>2019-06-13T21:49:16+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beginnercppis.github.io/creature/</loc>
+    <lastmod>2019-06-13T21:49:16+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://beginnercppis.github.io/creature/posts/giraffe/</loc>
+    <lastmod>2019-06-13T21:39:49+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://beginnercppis.github.io/creature/posts/whale/</loc>
     <lastmod>2019-06-13T13:24:06+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://beginnercppis.github.io/creature/</loc>
-    <lastmod>2019-06-13T13:24:06+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
