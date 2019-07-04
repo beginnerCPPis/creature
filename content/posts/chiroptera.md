@@ -1,6 +1,0 @@
----
-title: "Chiroptera"
-date: 2019-06-29T11:47:44+09:00
-draft: false
----
-Test

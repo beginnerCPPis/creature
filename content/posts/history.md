@@ -13,10 +13,15 @@ procedure of HUGO
 
 
 1 $ hugo new site mammal && cd mammal
+
 2 $ git init && git submodule add https://github.com/vaga/hugo-theme-m10c.git themes/m10c;
+
 3 config.toml      add{ theme = “m10c”}
+
 4 hugo server
+
 5 hugo new posts/whale.md
+
 6 whale.md
 {
 title: "whale."
@@ -35,7 +40,8 @@ Comment
 	publishDir = "docs"
 	canonifyurls = true
 	baseURL = "https://beginnercppis.github.io/creature/“
-	#baseURL = "https://subtle-life.work"                                                                                                                                                                                                         
+	#baseURL = "https://subtle-life.work"                                                                                                                                                                                                
+         
 	defaultContentLanguage = "en"
 	title = "introduction"
 	theme = "m10c"
