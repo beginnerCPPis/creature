@@ -5,19 +5,10 @@
     <link>https://beginnercppis.github.io/creature/posts/</link>
     <description>Recent content in Posts on introduction</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 Jun 2019 11:47:44 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2019 21:49:16 +0900</lastBuildDate>
     
 	<atom:link href="https://beginnercppis.github.io/creature/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Chiroptera</title>
-      <link>https://beginnercppis.github.io/creature/posts/chiroptera/</link>
-      <pubDate>Sat, 29 Jun 2019 11:47:44 +0900</pubDate>
-      
-      <guid>https://beginnercppis.github.io/creature/posts/chiroptera/</guid>
-      <description>Test</description>
-    </item>
     
     <item>
       <title>History</title>
@@ -27,7 +18,12 @@
       <guid>https://beginnercppis.github.io/creature/posts/history/</guid>
       <description>This page is a crude histroy that may be summarized as follows
 procedure of HUGO
-1 $ hugo new site mammal &amp;amp;&amp;amp; cd mammal 2 $ git init &amp;amp;&amp;amp; git submodule add https://github.com/vaga/hugo-theme-m10c.git themes/m10c; 3 config.toml add{ theme = “m10c”} 4 hugo server 5 hugo new posts/whale.md 6 whale.md { title: &amp;ldquo;whale.&amp;rdquo; date: draft: true-&amp;gt;false
+1 $ hugo new site mammal &amp;amp;&amp;amp; cd mammal
+2 $ git init &amp;amp;&amp;amp; git submodule add https://github.com/vaga/hugo-theme-m10c.git themes/m10c;
+3 config.toml add{ theme = “m10c”}
+4 hugo server
+5 hugo new posts/whale.md
+6 whale.md { title: &amp;ldquo;whale.&amp;rdquo; date: draft: true-&amp;gt;false
 Comment } 7 hugo #reflectin /* /*
 8 publishDir = &amp;ldquo;docs&amp;rdquo; canonifyurls = true baseURL = &amp;ldquo;https://beginnercppis.</description>
     </item>
